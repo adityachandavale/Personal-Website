@@ -4,7 +4,7 @@ body{
 
 .subHead{
     font-family: "Times New Roman", Times, serif;
-    color:darkmagenta;
+    color:#3D85C6;
     text-align:center;
     font-size: 28px;
     height: 20px;
@@ -22,7 +22,7 @@ body{
 
 .subTitle{
     font-family: "Times New Roman", Times, serif;
-    color:darkmagenta;
+    color:#3D85C6;
     text-align:center;
     height: 70px;
     top: 50px;
@@ -45,7 +45,7 @@ body{
 }
 
 .topnav a:hover {
-    background-color: darkmagenta;
+    background-color: #3D85C6;
     color: white;
 }
 

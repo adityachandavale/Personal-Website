@@ -1,0 +1,69 @@
+body{
+    background-color:black
+}
+
+.topnav {
+    overflow: hidden;
+    background-color:black;
+}
+  
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.topnav a:hover {
+    background-color: #3D85C6;
+    color: white;
+}
+
+.topnav a:active {
+    background-color: black;
+    color: white;
+}
+
+.location{
+    color: white;
+}
+
+#mobile{
+    background-color: #3D85C6;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#mobile:focus {
+    border-color:#333;
+}
+#mobile:hover {
+    background-color: darkmagenta;
+    color: black;
+}
+
+#email{
+    background-color: #3D85C6;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#email:focus {
+    border-color:#333;
+}
+#email:hover {
+    background-color: darkmagenta;
+    color: black;
+}
